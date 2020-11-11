@@ -1,0 +1,40 @@
+Bern, engehalbinsel Theater Panorama Landscape for Stellarium
+=======================================
+
+Description
+-----------
+
+
+
+
+Files
+-----
+
+
+
+Installation & Use
+------------------
+
+Unzip the landscape package file in your personal stellarium data
+directory, or the <config_root>/landscapes directory.  The location
+varyies depending on your operating system.  See the Stellarium
+User Guide for per-platform details.
+
+Once you have installed the landscape, open Stellarium and go to the
+configuration dialog.  Select the landscapes tab, and select the landscape
+from the list of available landscapes.
+
+
+Credits
+-------
+Mirco Brunner
+Archäologische Dienst Graubünden
+
+
+License
+-------
+
+Creative Commons
+
+Mirco Brunner, November 10, 2020
+
